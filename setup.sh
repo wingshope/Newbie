@@ -151,7 +151,7 @@ fi
 echo -e "\e[32mloading...\e[0m"
 clear
 # REPO    
-    REPO="https://tekirovpn.my.id/"
+    REPO="https://raw.githubusercontent.com/wingshope/Newbie/main/"
 
 ####
 start=$(date +%s)

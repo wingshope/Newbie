@@ -30,7 +30,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/wingshope/Newbie/menu/menu.zip
+    wget https://raw.githubusercontent.com/wingshope/Newbie/main/menu/menu.zip
     unzip menu
     chmod +x menu/*
     mv menu/* /usr/local/sbin

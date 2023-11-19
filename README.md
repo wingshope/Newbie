@@ -8,4 +8,4 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/wingshope/Newbie/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh</code></pre>
 
 ### ATAU
-wget --no-check-certificate https://raw.githubusercontent.com/wingshope/Newbie/main/setup.sh && chmod +x setup.sh && ./setup.sh
+<pre><code>wget --no-check-certificate https://raw.githubusercontent.com/wingshope/Newbie/main/setup.sh && chmod +x setup.sh && ./setup.sh</code></pre>

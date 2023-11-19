@@ -1,3 +1,5 @@
+### KALAU MAU INSTALL IZIN IP DULU. !! 
+
 # UPDATE UNTUK DEBIAN
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 
